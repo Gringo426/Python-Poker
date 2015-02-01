@@ -1,5 +1,5 @@
-from deck import *
-from player import *
+from deck import Deck
+from player import Player
 import copy
 
 class Game:
